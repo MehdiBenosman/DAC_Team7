@@ -61,3 +61,16 @@ After cleaning, the dataset contained no missing values and valid data ranges.
 2. Make sure the dataset file (‘team07_weather.csv’) is in the same directory as the notebook.
 3. Open the notebook file (‘DAC_Team7.ipynb’).
 4. Run all cells in order.
+
+---
+
+## Video Demo
+
+A video presentation accompanies this project.
+
+The video demonstrates:
+- The data cleaning process
+- The analysis steps with visualizations
+- Final conclusions
+
+During the presentation, the notebook is executed to explain the steps and the results.
