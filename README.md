@@ -8,10 +8,10 @@ In this project we analyzed a one-year dataset (365 days) containing daily weath
 
 ## Project Files
 
-- ‘DAC_Team7.ipynb': Notebook containing data cleaning, analysis, and visualizations.
-- ‘team07_weather.csv': Dataset containing daily weather and air quality data for multiple cities.
-- ‘README.md’: Project documentation explaining the analysis and how to run the project.
-- ‘DAC_Team7_Video.mp4’: Recorded presentation demonstrating the notebook execution and key findings.
+- ‘**DAC_Team7.ipynb**': Notebook containing data cleaning, analysis, and visualizations.
+- ‘**team07_weather.csv**': Dataset containing daily weather and air quality data for multiple cities.
+- ‘**README.md**’: Project documentation explaining the analysis and how to run the project.
+- ‘**DAC_Team7_Video.mp4**’: Recorded presentation demonstrating the notebook execution and key findings.
 
 ---
 
