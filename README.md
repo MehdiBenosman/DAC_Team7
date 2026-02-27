@@ -1,5 +1,6 @@
 # Data Analysis Challenge, Team 7, Weather and Air Quality
 
+---
 
 ## Project Files
 
