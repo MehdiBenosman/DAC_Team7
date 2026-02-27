@@ -1,5 +1,18 @@
 # Data Analysis Challenge, Team 7, Weather and Air Quality
 
+
+## Project Files
+
+1. **team07_weather.csv** - The dataset
+
+2. **DAC_Team7.ipynb** - The main notebook containing all data cleaning steps, analysis, visualizations, and conclusions.
+
+3. **DAC_Team7_Presentation.mp4** - The video presentation demonstrating the data cleaning process, analysis workflow, visualizations, and final insights.
+
+4. **README.md** - Overview, file descriptions, setup instructions and final insights.
+
+---
+
 ## Project Overview
 
 In this project we analyzed a one-year dataset (365 days) containing daily weather and air quality data for multiple cities. The goal was to clean the data, perform statistical analysis, and answer six analytical questions related to temperature, air quality, seasonality, and precipitation.
