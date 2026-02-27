@@ -13,6 +13,7 @@ In this project we analyzed a one-year dataset (365 days) containing daily weath
 - ‘**README.md**’: Project documentation explaining the analysis and how to run the project.
 - ‘**DAC_Team7_Video.mp4**’: Recorded presentation demonstrating the notebook execution and key findings.
 
+- Additionally, there is a .gitattributes file which was used to configure Git LFS to upload the video as the video size was more than the normal Git upload limit.
 ---
 
 ## Data Cleaning
